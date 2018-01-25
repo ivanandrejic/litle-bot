@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LitleBot</string>
+    <string name="toggle_button_run">RUN</string>
+    <string name="toggle_button_stop">STOP</string>
+    <string name="text_view_cycle">Cycle</string>
+    <string name="text_view_click">Click</string>
+</resources>
